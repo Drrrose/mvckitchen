@@ -1,0 +1,10 @@
+{
+    "name": "mostafa/kitchen",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mostafa\\Kitchen\\": "src/"
+        }
+    },
+    "require": {}
+}
